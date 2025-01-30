@@ -1,0 +1,5 @@
+#count in tuple
+grade=("c","d","a","a","b","b","a","c","d",)
+
+
+print(grade.count("a"))
