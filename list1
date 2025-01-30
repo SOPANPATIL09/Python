@@ -1,0 +1,6 @@
+movies=[]
+print("Enter a favorites movies name ")
+movies.append(input("enter a movies"))
+movies.append(input("enter a movies"))
+movies.append(input("enter a movies"))
+print(movies)
